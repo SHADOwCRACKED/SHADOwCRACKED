@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SHADOwCRACKED
+- 🌱 I’m currently learning HTML and python
